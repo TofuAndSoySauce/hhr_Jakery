@@ -1,7 +1,7 @@
 # hhr_Jakery
 
 첫 팀프로젝트
-
+내가 사용한 IDE 및 기술 : STS, Springboot, maven, oracle db, ajax, jsp, rombok, git & github
 2022-12-8 ~ 독감, 코로나 이슈 ~ 2023-01-05
 
 1. 요구사항 확인
